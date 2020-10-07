@@ -20,4 +20,4 @@ requires the following libraries:
 ## Credits
 Program made by Francisco Esteves.
 
-Tested by Diogo Gonçalves, Clémentine and Gonçalo Damas.
+Tested by Diogo Gonçalves, Clémentine Abel and Gonçalo Damas.

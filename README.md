@@ -17,6 +17,26 @@ requires the following libraries:
 
 4º outputs the solution(s) with the sequences where the best local combination is highlighted, the value of the best combination and the time it took to execute.
 
+Example:
+
+First amino acid sequence: WPIWPC
+Second amino acid sequence: IIWPI
+Gap penalty: 4
+
+Solution n1:
+
+WP|IWP|C
+ I|IWP|I
+
+Solution n2:
+
+  |WPI|WPC
+II|WPI|
+
+Value of alignment is: 30!
+
+--- 0.0026280879974365234 seconds ---
+
 ## Credits
 Program made by Francisco Esteves.
 

@@ -30,7 +30,7 @@ II|WPI|
 
 Value of alignment is: 30!  
 --- 0.0026280879974365234 seconds ---
-\<pre>
+</pre>
 ## Credits
 Program made by Francisco Esteves.  
 Tested by Diogo Gonçalves, Clémentine Abel and Gonçalo Damas.

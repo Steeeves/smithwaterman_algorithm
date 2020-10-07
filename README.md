@@ -5,7 +5,7 @@ Made for IST Computational Biology subject 2020/2021.
 ## Requirements
 requires the following libraries:
 - os
-- Bio.SubsMat (https://biopython.org/wiki/Download)
+- [Bio.SubsMat](https://biopython.org/wiki/Download)
 - time
 
 ## Usage

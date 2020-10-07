@@ -1,5 +1,5 @@
 # Smith-Waterman Algorithm
-Program in Python3 that implements Smith-Waterman algorithm based on the blosum50 scoring matrix.
+Implementation of the Smith-Waterman algorithm based on the blosum50 scoring matrix in Python3.
 Made for IST Computational Biology subject 2020/2021.
 
 ## Requirements
@@ -31,6 +31,7 @@ II|WPI|
 Value of alignment is: 30!  
 --- 0.0026280879974365234 seconds ---
 </pre>
+
 ## Credits
 Program made by Francisco Esteves.  
 Tested by Diogo Gonçalves, Clémentine Abel and Gonçalo Damas.
